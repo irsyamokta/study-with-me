@@ -1,0 +1,98 @@
+body {
+    background-color: aqua;
+    color: red;
+}
+
+nav {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+aside {
+    width: 30%;
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+.section-aside:nth-child(1) {
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+.section-aside:nth-child(2) {
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+.section-aside:nth-child(3) {
+    width: 100%;
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+main {
+    width: 70%;
+    background-color: blue;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: red;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 5px 20px 1px 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.section-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.section-main:nth-child(1) {
+    width: 100%;
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}
+
+.section-main:nth-child(2) {
+    width: 100%;
+    background-color: salmon;
+    color: black;
+    text-align: center;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+}

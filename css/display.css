@@ -1,0 +1,19 @@
+.test{
+	display: inline-block;
+}
+
+/* p{
+	display: inline;
+} */
+
+.text:nth-child(1){
+	background-color: red;
+}
+
+.text:nth-child(2){
+	background-color: green;
+}
+
+.text:nth-child(3){
+	background-color: blue;
+}

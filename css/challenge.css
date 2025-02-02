@@ -1,0 +1,22 @@
+.card-1{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    height: 100px;
+    background-color: #1d1d1d;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+    padding: 10px;
+    color: white;
+    overflow: hidden;
+}
+
+.decoration{
+    position: absolute;
+    right: -30px;
+    bottom: 40px;
+}
+
+
